@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f8f8f8;
+  color: #333;
+  text-align: center;
+}
+
+header {
+  background-color: #d9a7c7;
+  background-image: linear-gradient(to right, #fffcdc, #d9a7c7);
+  padding: 20px;
+}
+
+.logo {
+  width: 100px;
+  height: auto;
+}
+
+h1 {
+  margin: 10px 0;
+}
+
+.services, .contacts {
+  padding: 20px;
+  background: white;
+  margin: 20px auto;
+  max-width: 600px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  margin: 10px 0;
+  font-size: 1.1em;
+}
